@@ -33,6 +33,6 @@ Password: password
 9. On the posts page open filters menu and pick date for
 "**Published Date From**" or/and "**Published Date To**"
 10. After picked values will be applied, you will see them in browser
-url string and filter indicator. After that refresh browser page with applied filters
+url string and filter indicator. After that refresh the browser page with applied filters
 and you will see that picked filter date is increasing
 by configured timezone with each page refresh.
